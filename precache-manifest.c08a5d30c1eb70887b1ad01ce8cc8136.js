@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/Prototype2_homepage.d20f2487.png"
   },
   {
-    "revision": "bcc912c93e2b1c974eb0",
+    "revision": "baef601bdddb35bc7cf4",
     "url": "/static/css/main.03a92e57.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/static/media/prototype1_main.5325f7dc.png"
   },
   {
-    "revision": "bcc912c93e2b1c974eb0",
-    "url": "/static/js/main.bcc912c9.chunk.js"
+    "revision": "baef601bdddb35bc7cf4",
+    "url": "/static/js/main.baef601b.chunk.js"
   },
   {
     "revision": "9603bfd5cc9c43a348309ee91c71ea6a",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/static/media/raceforce-logo.b6001f5e.png"
   },
   {
-    "revision": "0b4cc20b8b0b9fa7da60ae14dc2f9273",
+    "revision": "7770c573b8d2e6e1e20fedfedc9d2223",
     "url": "/index.html"
   }
 ];
