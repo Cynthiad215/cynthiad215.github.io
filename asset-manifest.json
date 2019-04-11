@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.70dc4674.chunk.css",
-  "main.js": "/static/js/main.66c5798e.chunk.js",
-  "main.js.map": "/static/js/main.66c5798e.chunk.js.map",
+  "main.css": "/static/css/main.b658549e.chunk.css",
+  "main.js": "/static/js/main.1140b6e9.chunk.js",
+  "main.js.map": "/static/js/main.1140b6e9.chunk.js.map",
   "static/js/1.74350146.chunk.js": "/static/js/1.74350146.chunk.js",
   "static/js/1.74350146.chunk.js.map": "/static/js/1.74350146.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -19,8 +19,8 @@
   "static/media/robsonsquare.png": "/static/media/robsonsquare.5ad5753b.png",
   "static/media/ubc_events.png": "/static/media/ubc_events.1fd62069.png",
   "static/media/ux_field.jpg": "/static/media/ux_field.792f17d7.jpg",
-  "static/css/main.70dc4674.chunk.css.map": "/static/css/main.70dc4674.chunk.css.map",
+  "static/css/main.b658549e.chunk.css.map": "/static/css/main.b658549e.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.86f63b59a402eadad63da39503890bbb.js": "/precache-manifest.86f63b59a402eadad63da39503890bbb.js",
+  "precache-manifest.a6c260609a774ea6c13e54044e704a50.js": "/precache-manifest.a6c260609a774ea6c13e54044e704a50.js",
   "service-worker.js": "/service-worker.js"
 }
