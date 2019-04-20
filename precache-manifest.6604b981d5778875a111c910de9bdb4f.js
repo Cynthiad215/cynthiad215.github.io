@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/uxanalysis.1a39f2f7.jpg"
   },
   {
-    "revision": "1140b6e9038d3b9922b7",
+    "revision": "8c5a0a900e8475d593c5",
     "url": "/static/css/main.b658549e.chunk.css"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/static/media/UXLab_Horizontal_Blue.9603bfd5.png"
   },
   {
-    "revision": "1140b6e9038d3b9922b7",
-    "url": "/static/js/main.1140b6e9.chunk.js"
+    "revision": "8c5a0a900e8475d593c5",
+    "url": "/static/js/main.8c5a0a90.chunk.js"
   },
   {
     "revision": "42c235ceeb105e9d92b61082d83057cf",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/static/media/ubc_archives.5885c0b6.png"
   },
   {
-    "revision": "4b8ba9d0f1123b6f2f4ed3191f217020",
+    "revision": "65e0fea406b12f4fa94b399cfacaf9fb",
     "url": "/index.html"
   }
 ];
